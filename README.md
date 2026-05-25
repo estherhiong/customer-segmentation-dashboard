@@ -8,7 +8,7 @@ L'objectif de ce projet est de segmenter une base de données clients afin d'ide
 ## 📊 Le Dashboard Décisionnel (Power BI)
 L'interface a été développée en mode sombre pour offrir un rendu moderne et professionnel ("Application Tech") :
 
-![Dashboard Power BI](powebi.png)
+![Dashboard Power BI](images/powebi.png)
 
 ### 💡 Fonctionnalités clés :
 - **Interactivité totale :** En cliquant sur un segment de l'anneau (ex: les VIP), l'ensemble des indicateurs (CA, panier moyen) et les graphiques s'actualisent instantanément pour ce profil précis.
